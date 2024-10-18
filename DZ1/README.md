@@ -30,23 +30,23 @@
 DZ1/
 ├── score/
 
-│   ├── score_service.py
+│   	├── score_service.py
 
-│   ├── requirements.txt
+│   	├── requirements.txt
 
 ├── auth/
 
-│   ├── auth_service.py
+│   	├── auth_service.py
 
-│   ├── requirements.txt
+│   	├── requirements.txt
 
 ├── composition/
 
-│   ├── composition_service.py
+│   	├── composition_service.py
 
-│   ├── requirements.txt
+│   	├── requirements.txt
 
-│   └── .env
+│   	└── .env
 
 └── README.md
 
