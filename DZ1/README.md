@@ -29,15 +29,25 @@
 
 DZ1/
 ├── score/
+
 │   ├── score_service.py
+
 │   ├── requirements.txt
+
 ├── auth/
+
 │   ├── auth_service.py
+
 │   ├── requirements.txt
+
 ├── composition/
+
 │   ├── composition_service.py
+
 │   ├── requirements.txt
+
 │   └── .env
+
 └── README.md
 
 
