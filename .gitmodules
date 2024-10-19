@@ -1,0 +1,3 @@
+[submodule "AIS24-DZ1"]
+	path = AIS24-DZ1
+	url = https://github.com/FIIT24GP/AIS24-DZ1.git
